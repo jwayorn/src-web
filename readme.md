@@ -8,6 +8,8 @@
 #### https://www.behance.net/gallery/38859005/Free-UI-Kit-Landing
 
 # Tailwinds
-## Components
+## Components 
 #### https://merakiui.com/
 #### https://mertjf.github.io/tailblocks/
+### Tailwinds Collections
+#### https://tailblocks.xyz/
