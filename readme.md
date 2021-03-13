@@ -16,6 +16,7 @@
 # Tailwinds
 ## Tailwind Toolbox
 ### https://www.tailwindtoolbox.com/starter-templates
+### https://tailwinduikit.com/components/webapp/navigation/horizontal_navigation
 
 ## Components 
 #### https://merakiui.com/
