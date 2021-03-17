@@ -24,3 +24,6 @@
 
 ### Tailwinds Collections
 #### https://tailblocks.xyz/
+
+# Vue.js
+### https://vuetifyjs.com/en/getting-started/installation/
