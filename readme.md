@@ -22,8 +22,11 @@
 ## Tailwind Toolbox
 ### https://www.tailwindtoolbox.com/starter-templates
 ### https://tailwinduikit.com/components/webapp/navigation/horizontal_navigation
+
+# Color
 ## Tailwind colors shardes
-###https://www.tailwindshades.com/
+### https://www.tailwindshades.com/
+### https://www.htmlcsscolor.com/hex/FCAF26
 
 ## Components 
 #### https://merakiui.com/
