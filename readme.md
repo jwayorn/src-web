@@ -24,8 +24,9 @@
 ### https://tailwinduikit.com/components/webapp/navigation/horizontal_navigation
 
 # Color
-## Tailwind colors shardes
+ Tailwind colors shardes
 ### https://www.tailwindshades.com/
+ color name
 ### https://www.htmlcsscolor.com/hex/FCAF26
 
 ## Components 
