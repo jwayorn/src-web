@@ -16,12 +16,14 @@
 #### https://xdfile.com/farm-website-template-sketch/
 #### https://www.adobe.com/th_en/products/xd/features/ui-kits.html
 #### https://www.uistore.design/types/adobe-xd/
-
-# UI KIT
 #### https://webdesign.tutsplus.com/tutorials/20-must-have-wireframe-templates-and-ui-kits-for-your-design-library--cms-31568
 #### https://www.behance.net/gallery/38859005/Free-UI-Kit-Landing
 #### https://www.adobe.com/sea/products/xd/features/ui-kits.html
 #### https://www.behance.net/gallery/85552665/DOB-Desktop-Mobile-Wireframe-Web-UI-Kit
+
+# UI KIT
+#### https://www.tailwindtoolbox.com/kits (HUB)
+#### https://daisyui.com/
 
 # Tailwinds
 ## Tailwind Toolbox
