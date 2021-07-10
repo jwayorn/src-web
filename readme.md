@@ -30,6 +30,7 @@
 ## Tailwind Toolbox
 ### https://www.tailwindtoolbox.com/starter-templates
 ### https://tailwinduikit.com/components/webapp/navigation/horizontal_navigation
+#### https://www.telerik.com/blogs/top-15-tailwind-css-plugins-resources
 
 # Color
  Tailwind colors shardes
