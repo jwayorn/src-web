@@ -25,6 +25,7 @@
 # UI KIT
 #### https://www.tailwindtoolbox.com/kits (HUB)
 #### https://daisyui.com/
+#### https://windstrap.netlify.app/ - bootstrap base on tailwinds
 
 # Tailwinds
 ## Tailwind Toolbox
